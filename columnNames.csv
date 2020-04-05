@@ -1,288 +1,288 @@
-name,fullname,varName,Unit
-Edible proportion,Edible proportion,edibleProportion,
-Specific gravity,Specific gravity,specificGravity,
-Total solids,Total solids,totalSolids,
-Nitrogen conversion factor,Nitrogen conversion factor,nitrogenConversionFactor,
-Glycerol conversion factor,Glycerol conversion factor,glycerolConversionFactor,
-Food Code,Food Code,foodCode,
-Food Name,Food Name,foodName,
-Description,Description,description,
-Group,Group,group,
-Previous,Previous,previous,
-Main data references,Main data references,references,
-Footnote,Footnote,footnote,
-Water (g),Water,water,g
-Total nitrogen (g),Total nitrogen,totalNitrogen,g
-Protein (g),Protein,protein,g
-Fat (g),Fat,fat,g
-Carbohydrate (g),Carbohydrate,carbohydrate,g
-Energy (kcal) (kcal),kcal,energy,kcal
-Energy (kJ) (kJ),kJ,energyKj,kj
-Starch (g),Starch,starch,g
-Oligosaccharide (g),Oligosaccharide,oligo,g
-Total sugars (g),Total sugars,totalSugars,g
-Glucose (g),Glucose,glucose,g
-Galactose (g),Galactose,galactose,g
-Fructose (g),Fructose,fructose,g
-Sucrose (g),Sucrose,sucrose,g
-Maltose (g),Maltose,maltose,g
-Lactose (g),Lactose,lactose,g
-Alcohol (g),Alcohol,alcool,g
-NSP (g),Non-starch polysaccharide,nStarchPoly,g
-AOAC fibre (g),AOAC fibre,fibre,g
-Satd FA /100g FA (g),Saturated fatty acids per 100g fatty acids,SFAPer100gFA,g
-Satd FA /100g fd (g),Saturated fatty acids per 100g food,SFA,g
-n-6 poly /100g FA (g),Total n-6 polyunsaturated fatty acids per 100g fatty acid,omega6Per100gFA,g
-n-6 poly /100g food (g),Total n-6 polyunsaturated fatty acids per 100g food,omega6,g
-n-3 poly /100g FA (g),Total n-3 polyunsaturated fatty acids per 100g fatty acid,omega3Per100gFA,g
-n-3 poly /100g food (g),Total n-3 polyunsaturated fatty acids per 100g food,omega3,g
-cis-Mono FA /100g FA (g),cis-Monounsaturated fatty acids /100g FA,cisMUFAPer100gFA,g
-cis-Mono FA /100g Food (g),cis-Monounsaturated fatty acids /100g Food,cisMUFA,g
-Mono FA/ 100g FA (g),Monounsaturated fatty acids per 100g fatty acids,MUFAPer100gFA,g
-Mono FA /100g food (g),Monounsaturated fatty acids per 100g food,MUFA,g
-cis-Polyu FA /100g FA (g),cis-Polyunsaturated fatty acids /100g FA,cisPUFAPer100gFA,g
-cis-Poly FA /100g Food (g),cis-Polyunsaturated fatty acids /100g Food,cisPUFA,g
-Poly FA /100g FA (g),Polyunsaturated fatty acids per 100g fatty acids,PUFAPer100gFA,g
-Poly FA /100g food (g),Polyunsaturated fatty acids per 100g food,PUFA,g
-Sat FA excl Br /100g FA (g),Saturated fatty acids excluding branch per 100 g fatty acid,SFAExclBranchPer100gFA,g
-Sat FA excl Br /100g food (g),Saturated fatty acids excluding branch per 100 g food,SFAExclBranch,g
-Branched chain FA /100g FA (g),Total branched chain per 100g fatty acid,totalBranchedChainFAPer100gFA,g
-Branched chain FA /100g food (g),Total branched chain per 100g food,totalBranchedChainFA,g
-Trans FAs /100g FA (g),Total Trans fatty acids per 100g fatty acids,transFAPer100gFA,g
-Trans FAs /100g food (g),Total Trans fatty acids per 100g food,transFA,g
-Cholesterol (mg),Cholesterol,Cholesterol,mg
-Sodium (mg),Sodium,NA,mg
-Potassium (mg),Potassium,K,mg
-Calcium (mg),Calcium,CA,mg
-Magnesium (mg),Magnesium,MG,mg
-Phosphorus (mg),Phosphorus,P,mg
-Iron (mg),Iron,FE,mg
-Copper (mg),Copper,CU,mg
-Zinc (mg),Zinc,ZN,mg
-Chloride (mg),Chloride,CL,mg
-Manganese (mg),Manganese,MN,mg
-Selenium (µg),Selenium,SE,µg
-Iodine (µg),Iodine,I,µg
-Retinol (µg),Retinol,RET,µg
-Carotene (µg),Carotene,CAREQU,µg
-Retinol Equivalent (µg),Total retinol equivalent,RETEQU,µg
-Vitamin D (µg),Total Vitamin D,VITD,µg
-Vitamin E (mg),Total Vitamin E,VITE,mg
-Vitamin K1 (µg),Phylloquinone,VITK1,µg
-Thiamin (mg),Thiamin,THIA,mg
-Riboflavin (mg),Riboflavin,RIBO,mg
-Niacin (mg),Niacin,NIAC,mg
-Tryptophan/60 (mg),Tryptophan divided by 60,TRYP60,mg
-Niacin equivalent (mg),Niacin equivalent,NIACEQU,mg
-Vitamin B6 (mg),Vitamin B6,VITB6,mg
-Vitamin B12 (µg),Vitamin B12,VITB12,µg
-Folate (µg),Folate,FOLT,µg
-Pantothenate (mg),Pantothenate,PANTO,mg
-Biotin (µg),Biotin,BIOT,µg
-Vitamin C (mg),Vitamin C,VITC,mg
-All-trans-retinol (µg),All-trans-retinol,ALTRET,µg
-13-cis-retinol (µg),13-cis-retinol,13CISRET,µg
-Dehydroretinol (µg),Dehydroretinol,DEHYRET,µg
-Retinaldehyde (µg),Retinaldehyde,RETALD,µg
-Alpha-carotene (µg),Alpha-carotene,ACAR,µg
-Beta-carotene (µg),Beta-carotene,BCAR,µg
-Cryptoxanthins (µg),Cryptoxanthins,CRYPT,µg
-Lutein (µg),Lutein,LUT,µg
-Lycopene (µg),Lycopene,LYCO,µg
-25-hydroxy vitamin D3 (µg),25-hydroxy vitamin D3,25OHD3,µg
-Cholecalciferol (µg),Cholecalciferol,VITD3,µg
-5-mehtyl folate (µg),5-methyl folate,5METHF,µg
-Alpha-tocopherol (mg),Alpha-tocopherol,ATOPH,mg
-Beta-tocopherol (mg),Beta-tocopherol,BTOPH,mg
-Delta-tocopherol (mg),Delta-tocopherol,DTOPH,mg
-Gamma-tocopherol (mg),Gamma-tocopherol,GTOPH,mg
-Alpha-tocotrienol (mg),Alpha-tocotrienol,ATOTR,mg
-Gamma-tocotrienol (mg),Gamma-tocotrienol,GTOTR,mg
-C4:0 /100g FA (g),Butanoic acid per 100g fatty acids,FAC4_0Per100gFA,g
-C6:0 /100g FA (g),Hexanoic acid per 100g fatty acids,FAC6_0Per100gFA,g
-C8:0 /100g FA (g),Octanoic acid per 100g fatty acids,FAC8_0Per100gFA,g
-C10:0 /100g FA (g),Decanoic acid per 100g fatty acids,FAC10_0Per100gFA,g
-C11:0 ex Br /100g FA (g),ex Br Undecanoic acid per 100g fatty acids,FAC11_0xbPer100gFA,g
-C12:0 /100g FA (g),Dodecanoic acid per 100g fatty acids,FAC12_0Per100gFA,g
-C12:0 ex Br /100g FA (g),ex Br Dodecanoic acid per 100g fatty acids,FAC12_0xbPer100gFA,g
-C13:0 /100g FA (g),Tridecanoic acid per 100g fatty acids,FAC13_0Per100gFA,g
-C13:0 ex Br /100g FA (g),ex Br Tridecanoic acid per 100g fatty acids,FAC13_0xbPer100gFA,g
-C14:0 /100g FA (g),Tetradecanoic acid per 100g fatty acids,FAC14_0Per100gFA,g
-C14:0 ex Br /100g FA (g),ex Br Tetradecanoic acid per 100g fatty acids,FAC14_0xbPer100gFA,g
-C15:0 /100g FA (g),Pentadecanoic acid per 100g fatty acids,FAC15_0Per100gFA,g
-C15:0 ex Br /100g FA (g),ex Br Pentadecanoic acid per 100g fatty acids,FAC15_0xbPer100gFA,g
-C16:0 /100g FA (g),Hexadecanoic acid per 100g fatty acids,FAC16_0Per100gFA,g
-C16:0 ex Br /100g FA (g),ex Br Hexadecanoic acid per 100g fatty acids,FAC16_0xbPer100gFA,g
-C17:0 /100g FA (g),Heptadecanoic acid per 100g fatty acids,FAC17_0Per100gFA,g
-C17:0 ex Br /100g FA (g),ex Br Heptadecanoic acid per 100g fatty acids,FAC17_0xbPer100gFA,g
-C18:0 /100g FA (g),Octadecanoic acid per 100g fatty acids,FAC18_0Per100gFA,g
-C18:0 ex Br /100g FA (g),ex Br Octadecanoic acid per 100g fatty acids,FAC18_0xbPer100gFA,g
-C19:0 /100g FA (g),Nonadecanoic acid per 100g fatty acids,FAC19_0Per100gFA,g
-C20:0 /100g FA (g),Eicosanoic acid per 100g fatty acids,FAC20_0Per100gFA,g
-C20:0 ex Br /100g FA (g),ex Br Eicosanoic acid per 100g fatty acids,FAC20_0xbPer100gFA,g
-C22:0 /100g FA (g),Docosanoic acid per 100g fatty acids,FAC22_0Per100gFA,g
-C22:0 ex Br /100g FA (g),ex Br Docosanoic acid per 100g fatty acids,FAC22_0xbPer100gFA,g
-C24:0 /100g FA (g),Tetracosanoic acid per 100g fatty acids,FAC24_0Per100gFA,g
-C24:0 ex Br /100g FA (g),ex Br Tetracosanoic acid per 100g fatty acids,FAC24_0xbPer100gFA,g
-C25:0 ex Br /100g FA (g),ex Br Pentacosanoic acid per 100g fatty acids,FAC25_0xbPer100gFA,g
-C4:0 /100g food (g),Butanoic acid per 100g food,FOD4_0,g
-C6:0 /100g food (g),Hexanoic acid per 100g food,FOD6_0,g
-C8:0 /100g food (g),Octanoic acid per 100g food,FOD8_0,g
-C10:0 /100g food (g),Decanoic acid per 100g food,FOD10_0,g
-C11:0 ex Br /100g food (g),Undecanoic acid per 100g food,FOD11_0xb,g
-C12:0 /100g food (g),Dodecanoic acid per 100g food,FOD12_0,g
-C12:0 ex Br /100g food (g),ex Br Dodecanoic acid per 100g food,FOD12_0xb,g
-C13:0 /100g food (g),Tridecanoic acid per 100g food,FOD13_0,g
-C13:0 ex Br /100g food (g),ex Br Tridecanoic acid per 100g food,FOD13_0xb,g
-C14:0 /100g food (g),Tetradecanoic acid per 100g food,FOD14_0,g
-C14:0 ex Br /100g food (g),ex Br Tetradecanoic acid per 100g food,FOD14_0xb,g
-C15:0 /100g food (g),Pentadecanoic acid per 100g food,FOD15_0,g
-C15:0 ex Br /100g food (g),ex Br Pentadecanoic acid per 100g food,FOD15_0xb,g
-C16:0 /100g food (g),Hexadecanoic acid per 100g food,FOD16_0,g
-C16:0 ex Br /100g food (g),ex Br Hexadecanoic acid per 100g food,FOD16_0xb,g
-C17:0 /100g food (g),Heptadecanoic acid per 100g food,FOD17_0,g
-C17:0 ex Br /100g food (g),ex Br Heptadecanoic acid per 100g food,FOD17_0xb,g
-C18:0 /100g food (g),Octadecanoic acid per 100g food,FOD18_0,g
-C18:0 ex Br /100g food (g),ex Br Octadecanoic acid per 100g food,FOD18_0xb,g
-C19:0 /100g food (g),Nonadecanoic acid per 100g food,FOD19_0,g
-C20:0 /100g food (g),Eicosanoic acid per 100g food,FOD20_0,g
-C20:0 ex Br /100g food (g),ex Br Eicosanoic acid per 100g food,FOD20_0xb,g
-C22:0 /100g food (g),Docosanoic acid per 100g food,FOD22_0,g
-C22:0 ex Br /100g food (g),ex Br Docosanoic acid per 100g food,FOD22_0xb,g
-C24:0 /100g food (g),Tetracosanoic acid per 100g food,FOD24_0,g
-C24:0 ex Br /100g food (g),ex Br Tetracosanoic acid per 100g food,FOD24_0xb,g
-C25:0 ex Br /100g food (g),ex Br Pentacosanoic acid per 100g food,FOD25_0xb,g
-C10:1 /100g FA (g),Decenoic acid per 100g fatty acids,FAC10_1,g
-cis C10:1 /100g FA (g),cisDecenoic acid per 100g fatty acids,FAC10_1c,g
-C12:1 /100g FA (g),Dodecenoic acid per 100g fatty acids,FAC12_1,g
-cis C12:1 /100g FA (g),cisDodecenoic acid per 100g fatty acids,FAC12_1c,g
-C14:1 /100g FA (g),Tetradecenoic acid per 100g fatty acids,FAC14_1,g
-cis C14:1 /100g FA (g),cisTetradecenoic acid per 100g fatty acids,FAC14_1c,g
-C15:1 /100g FA (g),Pentadecenoic acid per 100g fatty acids,FAC15_1,g
-cis C15:1 /100g FA (g),cisPentadecenoic acid per 100g fatty acids,FAC15_1c,g
-C16:1 /100g FA (g),Hexadecenoic acid per 100g fatty acids,FAC16_1,g
-cis C16:1 /100g FA (g),cisHexadecenoic acid per 100g fatty acids,FAC16_1c,g
-C17:1 /100g FA (g),Heptadecenoic acid per 100g fatty acids,FAC17_1,g
-cis C17:1 /100g FA (g),cisHeptadecenoic acid per 100g fatty acids,FAC17_1c,g
-C18:1 /100g FA (g),Octadecenoic acid per 100g fatty acids,FAC18_1,g
-cis C18:1 /100g FA (g),cisOctadecenoic acid per 100g fatty acids,FAC18_1c,g
-cis/trans C18:1n-9 /100g FA (g),n-9 Octadecenoic acid per 100g fatty acids,FAC18_1n9,g
-cis/trans C18:1n-7 /100g FA (g),n-7 Octadecenoic acid per 100g fatty acids,FAC18_1n7,g
-C20:1 /100g FA (g),Eicosenoic acid per 100g fatty acids,FAC20_1,g
-cis C20:1 /100g FA (g),cisEicosenoic acid per 100g fatty acids,FAC20_1c,g
-C22:1 /100g FA (g),Docosenoic acid per 100g fatty acids,FAC22_1,g
-cis C22:1 /100g FA (g),cisDocosenoic acid per 100g fatty acids,FAC22_1c,g
-cis/trans C22:1n-11 /100g FA (g),n-11 Docosenoic acid per 100g fatty acids,FAC22_1n11,g
-cis/trans C22:1n-9 /100g FA (g),n-9 Docosenoic acid per 100g fatty acids,FAC22_1n9,g
-C24:1 /100g FA (g),Tetracosenoic acid per 100g fatty acids,FAC24_1,g
-cis C24:1 /100g FA (g),cisTetracosenoic acid per 100g fatty acids,FAC24_1c,g
-trans monounsaturated /100g FA (g),trans monounsaturated fatty acids per 100 FA,MONOFACtr,g
-C10:1 /100g food (g),Decenoic acid per 100g food,FOD10_1,g
-cis C10:1 /100g food (g),cis Decenoic acid per 100g food,FOD10_1c,g
-C12:1 /100g food (g),Dodecenoic acid per 100g food,FOD12_1,g
-cis C12:1 /100g food (g),cis Dodecenoic acid per 100g food,FOD12_1c,g
-C14:1 /100g food (g),Tetradecenoic acid per 100g food,FOD14_1,g
-cis C14:1 /100g food (g),cis Tetradecenoic acid per 100g food,FOD14_1c,g
-C15:1 /100g food (g),Pentadecenoic acid per 100g food,FOD15_1,g
-cis C15:1 /100g food (g),cis Pentadecenoic acid per 100g food,FOD15_1c,g
-C16:1 /100g food (g),Hexadecenoic acid per 100g food,FOD16_1,g
-cis C16:1 /100g food (g),cis Hexadecenoic acid per 100g food,FOD16_1c,g
-C17:1 /100g food (g),Heptadecenoic acid per 100g food,FOD17_1,g
-cis C17:1 /100g food (g),cis Heptadecenoic acid per 100g food,FOD17_1c,g
-C18:1 /100g food (g),Octadecenoic acid per 100g food,FOD18_1,g
-cis C18:1 /100g food (g),cis Octadecenoic acid per 100g food,FOD18_1c,g
-cis/trans C18:1n-9 /100g food (g),n-9 Octadecenoic acid per 100g food,FOD18_1n9,g
-cis/trans C18:1n-7 /100g food (g),n-7 Octadecenoic acid per 100g food,FOD18_1n7,g
-C20:1 /100g food (g),Eicosenoic acid per 100g food,FOD20_1,g
-cis C20:1 /100g food (g),cis Eicosenoic acid per 100g food,FOD20_1c,g
-C22:1 /100g food (g),Docosenoic acid per 100g food,FOD22_1,g
-cis C22:1 /100g food (g),cis Docosenoic acid per 100g food,FOD22_1c,g
-cis/trans C22:1n-11 /100g food (g),n-11 Docosenoic acid per 100g food,FOD22_1n11,g
-cis/trans C22:1n-9 /100g food (g),n-9 Docosenoic acid per 100g food,FOD22_1n9,g
-C24:1 /100g food (g),Tetracosenoic acid per 100g food,FOD24_1,g
-cis C24:1 /100g food (g),cis Tetracosenoic acid per 100g food,FOD24_1c,g
-trans monounsaturated /100g food (g),trans monounsaturated fatty acids per 100g food,MONOFODtr,g
-C16:2 /100g FA (g),Hexadecadienoic acid per 100g fatty acids,FAC16_2,g
-cis C16:2 /100g FA (g),cis Hexadecadienoic acid per 100g fatty acids,FAC16_2c,g
-cis C16:3 /100g FA (g),cis Hexadecatrienoic acid per 100g fatty acids,FAC16_3c,g
-C16:4 /100g FA (g),Hexadecatetraenoic acid per 100g fatty acids,FAC16_4,g
-cis C16:4 /100g FA (g),cis Hexadecatetraenoic acid per 100g fatty acids,FAC16_4c,g
-unknown C16 poly /100g FA (g),unknown C16 polyunsaturated fatty acids per 100g fatty acids,FAC16_poly,g
-C18:2 /100g FA (g),Octadecadienoic acid per 100g fatty acids,FAC18_2,g
-cis n-6 C18:2 /100g FA (g),cis n-6 Octadecadienoic acid per 100g fatty acids,FAC18_2cn6,g
-C18:3 /100g FA (g),Octadecatrienoic acid per 100g fatty acids,FAC18_3,g
-cis n-3 C18:3 /100g FA (g),cis n-3 Octadecatrienoic acid per 100g fatty acids,FAC18_3cn3,g
-cis n-6 C18:3 /100g FA (g),cis n-6 Octadecatrienoic acid per 100g fatty acids,FAC18_3cn6,g
-C18:4 /100g FA (g),Octadecatetraenoic acid per 100g fatty acids,FAC18_4,g
-cis n-3 C18:4 /100g FA (g),cis n-3 Octadecatetraenoic acid per 100g fatty acids,FAC18_4cn3,g
-unknown C18 poly /100g FA (g),unknown C18 polyunsaturated fatty acids per 100 fatty acid,FAC18_poly,g
-C20:2 /100g FA (g),Eicosadienoic acid per 100g fatty acids,FAC20_2,g
-cis n-6 C20:2 /100g FA (g),cis n-6 Eicosadienoic acid per 100g fatty acids,FAC20_2cn6,g
-C20:3 /100g FA (g),Eicosatrienoic acid per 100g fatty acids,FAC20_3,g
-cis n-6 C20:3 /100g FA (g),cis n-6 Eicosatrienoic acid per 100g fatty acids,FAC20_3cn6,g
-C20:4 /100g FA (g),Eicosatetraenoic acid per 100g fatty acids,FAC20_4,g
-cis n-6 C20:4 /100g FA (g),cis n-6 Eicosatetraenoic acid per 100g fatty acids,FAC20_4cn6,g
-C20:5 /100g FA (g),Eicosapentaenoic acid per 100g fatty acids,FAC20_5,g
-cis n-3 C20:5 /100g FA (g),cis n-3 Eicosapentaenoic acid per 100g fatty acids,FAC20_5cn3,g
-unknown C20 poly /100 FA (g),unknown C20 polyunsaturated fatty acid per 100 fatty acid,FAC20_poly,g
-C21:5 /100g FA (g),Heneicosapentaenoic acid per 100g fatty acids,FAC21_5,g
-cis n-3 C21:5 /100g FA (g),cis n-3 Heneicosapentaenoic acid per 100g fatty acids,FAC21_5cn3,g
-C22:2 /100g FA (g),Docosadienoic acid per 100g fatty acids,FAC22_2,g
-cis n-6 C22:2 /100g FA (g),cis n-6 Docosadienoic acid per 100g fatty acids,FAC22_2cn6,g
-cis n-6 C22:3 /100g FA (g),cis n-6,FAC22_3cn6,g
-C22:4 /100g FA (g),Docosatetraenoic acid per 100g fatty acids,FAC22_4,g
-cis n-6 C22:4 /100g FA (g),cis n-6 Docosatetraenoic acid per 100g fatty acids,FAC22_4cn6,g
-C22:5 /100g FA (g),Docosapentaenoic acid per 100g fatty acids,FAC22_5,g
-cis n-3 C22:5 /100g FA (g),cis n-3 Docosapentaenoic acid per 100g fatty acids,FAC22_5cn3,g
-C22:6 /100g FA (g),Docosahexaenoic acid (DHA) per 100g fatty acids,FAC22_6,g
-cis n-3 C22:6 /100g FA (g),cis n-3 Docosahexaenoic acid (DHA) per 100g FA,FAC22_6cn3,g
-unknown C22 poly /100g FA (g),unknown C22 polyunsaturated fatty acid per 100g fatty acid,FAC22_poly,g
-trans poly /100g FA (g),trans polyunsatsaturated fatty acid per 100g fatty acid,POLYFACtr,g
-C16:2 /100g food (g),Hexadecadienoic acid per 100g food,FOD16_2,g
-cis C16:2 /100g food (g),cis Hexadecadienoic acid per 100g food,FOD16_2c,g
-C16:3 /100g food (g),Hexadecatrienoic acid per 100g food,FOD16_3,g
-C16:4 /100g food (g),Hexadecatetraenoic acid per 100g food,FOD16_4,g
-cis C16:4 /100g food (g),cis Hexadecatetraenoic acid per 100g food,FOD16_4c,g
-unknown C16 poly /100g food (g),unknown C16 polyunsaturated fatty acids per 100g food,FOD16_poly,g
-C18:2 /100g food (g),Octadecadienoic acid per 100g food,FOD18_2,g
-cis n-6 C18:2 /100g food (g),cis n-6 Octadecadienoic acid per 100g food,FOD18_2cn6,g
-C18:3 /100g food (g),Octadecatrienoic acid per 100g food,FOD18_3,g
-cis n-3 C18:3 /100g food (g),cis n-3 Octadecatrienoic acid per 100g food,FOD18_3cn3,g
-cis n-6 C18:3 /100g food (g),cis n-6 Octadecatrienoic acid per 100g food,FOD18_3cn6,g
-C18:4 /100g food (g),Octadecatetraenoic acid per 100g food,FOD18_4,g
-cis n-3 C18:4 /100g food (g),cis n-3 Octadecatetraenoic acid per 100g food,FOD18_4cn3,g
-unknown C18 poly /100g food (g),unknown C18 polyunsaturated fatty acid per 100g food,FOD18_poly,g
-C20:2 /100g food (g),Eicosadienoic acid per 100g food,FOD20_2,g
-cis n-6 C20:2 /100g food (g),cis n-6 Eicosadienoic acid per 100g food,FOD20_2cn6,g
-C20:3 /100g food (g),Eicosatrienoic acid per 100g food,FOD20_3,g
-cis n-6 C20:3 /100g food (g),cis n-6 Eicosatrienoic acid per 100g food,FOD20_3cn6,g
-C20:4 /100g food (g),Eicosatetraenoic acid per 100g food,FOD20_4,g
-cis n-6 C20:4 /100g food (g),cis n-6 Eicosatetraenoic acid per 100g food,FOD20_4cn6,g
-C20:5 /100g food (g),Eicosapentaenoic acid per 100g food,FOD20_5,g
-cis n-3 C20:5 /100g food (g),cis n-3 Eicosapentaenoic acid per 100g food,FOD20_5cn3,g
-unknown C20 poly /100g food (g),unknown C20 polyunsaturated fatty acid per 100g food,FOD20_poly,g
-C21:5 /100g food (g),Heneicosapentaenoic acid per 100g food,FOD21_5,g
-cis n-3 C21:5 /100g food (g),cis n-3 Heneicosapentaenoic acid per 100g food,FOD21_5cn3,g
-C22:2 /100g food (g),Docosadienoic acid per 100g food,FOD22_2,g
-cis n-6 C22:2 /100g food (g),cis n-6 Docosadienoic acid per 100g food,FOD22_2cn6,g
-cis n-6 C22:3 /100g food (g),cis n-6,FOD22_3cn6,g
-C22:4 /100g food (g),Docosatetraenoic acid per 100g food,FOD22_4,g
-cis n-6 C22:4 /100g food (g),cis n-6 Docosatetraenoic acid per 100g food,FOD22_4cn6,g
-C22:5 /100g food (g),Docosapentaenoic acid per 100g food,FOD22_5,g
-cis n-3 C22:5 /100g food (g),cis n-3 Docosapentaenoic acid per 100g food,FOD22_5cn3,g
-C22:6 /100g food (g),Docosahexaenoic acid (DHA) per 100g food,FOD22_6,g
-cis n-3 C22:6 /100g food (g),cis n-3 Docosahexaenoic acid (DHA) per 100g food,FOD22_6cn3,g
-unknown C22 poly /100g food (g),unknown polyunsaturated fatty acid per 100g food,FOD22_poly,g
-trans poly /100g food (g),trans polyunsaturated fatty acid per 100g food,POLYFODtr,g
-Total Phytosterols (mg),Total Phytosterols,Total_PHYTO,mg
-Other Cholesterol and Phytosterols (mg),Other Cholesterol and Phytosterols,Other_CHOL_and_PHYTO,mg
-Phytosterol (mg),Phytosterol,PHYTO,mg
-Beta-sitosterol (mg),Beta-sitosterol,BSITPHYTO,mg
-Brassicasterol (mg),Brassicasterol,BRASPHYTO,mg
-Campesterol (mg),Campesterol,CAMPHYTO,mg
-Delta-5-avenasterol (mg),Delta-5-avenasterol,D5AVEN,mg
-Delta-7-avenasterol (mg),Delta-7-avenasterol,D7AVEN,mg
-Delta-7-stigmastenol (mg),Delta-7-stigmastenol,D7STIG,mg
-Stigmasterol (mg),Stigmasterol,STIGPHYTO,mg
-Citric acid (g),Citric acid,CITA,g
-Malic acid (g),Malic acid,MALA,g
+name,label,varName,unit,quantity
+Edible proportion,Edible proportion,edibleProportion,,
+Specific gravity,Specific gravity,specificGravity,,
+Total solids,Total solids,totalSolids,,
+Nitrogen conversion factor,Nitrogen conversion factor,nitrogenConversionFactor,,
+Glycerol conversion factor,Glycerol conversion factor,glycerolConversionFactor,,
+Food Code,Food Code,foodCode,,
+Food Name,Food Name,foodName,,
+Description,Description,description,,
+Group,Group,group,,
+Previous,Previous,previous,,
+Main data references,Main data references,references,,
+Footnote,Footnote,footnote,,
+Water (g),Water,water,g,
+Total nitrogen (g),Total nitrogen,totalNitrogen,g,
+Protein (g),Protein,protein,g,
+Fat (g),Fat,fat,g,
+Carbohydrate (g),Carbohydrate,carbohydrate,g,
+Energy (kcal) (kcal),kcal,energy,kcal,
+Energy (kJ) (kJ),kJ,energyKj,kj,
+Starch (g),Starch,starch,g,
+Oligosaccharide (g),Oligosaccharide,oligo,g,
+Total sugars (g),Total sugars,totalSugars,g,
+Glucose (g),Glucose,glucose,g,
+Galactose (g),Galactose,galactose,g,
+Fructose (g),Fructose,fructose,g,
+Sucrose (g),Sucrose,sucrose,g,
+Maltose (g),Maltose,maltose,g,
+Lactose (g),Lactose,lactose,g,
+Alcohol (g),Alcohol,alcool,g,
+NSP (g),Non-starch polysaccharide,nStarchPoly,g,
+AOAC fibre (g),AOAC fibre,fibre,g,
+Satd FA /100g FA (g),Saturated fatty acids per 100g fatty acids,SFAPer100gFA,g,
+Satd FA /100g fd (g),Saturated fatty acids per 100g food,SFA,g,
+n-6 poly /100g FA (g),Total n-6 polyunsaturated fatty acids per 100g fatty acid,omega6Per100gFA,g,
+n-6 poly /100g food (g),Total n-6 polyunsaturated fatty acids per 100g food,omega6,g,
+n-3 poly /100g FA (g),Total n-3 polyunsaturated fatty acids per 100g fatty acid,omega3Per100gFA,g,
+n-3 poly /100g food (g),Total n-3 polyunsaturated fatty acids per 100g food,omega3,g,
+cis-Mono FA /100g FA (g),cis-Monounsaturated fatty acids /100g FA,cisMUFAPer100gFA,g,
+cis-Mono FA /100g Food (g),cis-Monounsaturated fatty acids /100g Food,cisMUFA,g,
+Mono FA/ 100g FA (g),Monounsaturated fatty acids per 100g fatty acids,MUFAPer100gFA,g,
+Mono FA /100g food (g),Monounsaturated fatty acids per 100g food,MUFA,g,
+cis-Polyu FA /100g FA (g),cis-Polyunsaturated fatty acids /100g FA,cisPUFAPer100gFA,g,
+cis-Poly FA /100g Food (g),cis-Polyunsaturated fatty acids /100g Food,cisPUFA,g,
+Poly FA /100g FA (g),Polyunsaturated fatty acids per 100g fatty acids,PUFAPer100gFA,g,
+Poly FA /100g food (g),Polyunsaturated fatty acids per 100g food,PUFA,g,
+Sat FA excl Br /100g FA (g),Saturated fatty acids excluding branch per 100 g fatty acid,SFAExclBranchPer100gFA,g,
+Sat FA excl Br /100g food (g),Saturated fatty acids excluding branch per 100 g food,SFAExclBranch,g,
+Branched chain FA /100g FA (g),Total branched chain per 100g fatty acid,totalBranchedChainFAPer100gFA,g,
+Branched chain FA /100g food (g),Total branched chain per 100g food,totalBranchedChainFA,g,
+Trans FAs /100g FA (g),Total Trans fatty acids per 100g fatty acids,transFAPer100gFA,g,
+Trans FAs /100g food (g),Total Trans fatty acids per 100g food,transFA,g,
+Cholesterol (mg),Cholesterol,Cholesterol,mg,
+Sodium (mg),Sodium,NA,mg,
+Potassium (mg),Potassium,K,mg,
+Calcium (mg),Calcium,CA,mg,
+Magnesium (mg),Magnesium,MG,mg,
+Phosphorus (mg),Phosphorus,P,mg,
+Iron (mg),Iron,FE,mg,
+Copper (mg),Copper,CU,mg,
+Zinc (mg),Zinc,ZN,mg,
+Chloride (mg),Chloride,CL,mg,
+Manganese (mg),Manganese,MN,mg,
+Selenium (µg),Selenium,SE,µg,
+Iodine (µg),Iodine,I,µg,
+Retinol (µg),Retinol,RET,µg,
+Carotene (µg),Carotene,CAREQU,µg,
+Retinol Equivalent (µg),Total retinol equivalent,RETEQU,µg,
+Vitamin D (µg),Total Vitamin D,VITD,µg,
+Vitamin E (mg),Total Vitamin E,VITE,mg,
+Vitamin K1 (µg),Phylloquinone,VITK1,µg,
+Thiamin (mg),Thiamin,THIA,mg,
+Riboflavin (mg),Riboflavin,RIBO,mg,
+Niacin (mg),Niacin,NIAC,mg,
+Tryptophan/60 (mg),Tryptophan divided by 60,TRYP60,mg,
+Niacin equivalent (mg),Niacin equivalent,NIACEQU,mg,
+Vitamin B6 (mg),Vitamin B6,VITB6,mg,
+Vitamin B12 (µg),Vitamin B12,VITB12,µg,
+Folate (µg),Folate,FOLT,µg,
+Pantothenate (mg),Pantothenate,PANTO,mg,
+Biotin (µg),Biotin,BIOT,µg,
+Vitamin C (mg),Vitamin C,VITC,mg,
+All-trans-retinol (µg),All-trans-retinol,ALTRET,µg,
+13-cis-retinol (µg),13-cis-retinol,13CISRET,µg,
+Dehydroretinol (µg),Dehydroretinol,DEHYRET,µg,
+Retinaldehyde (µg),Retinaldehyde,RETALD,µg,
+Alpha-carotene (µg),Alpha-carotene,ACAR,µg,
+Beta-carotene (µg),Beta-carotene,BCAR,µg,
+Cryptoxanthins (µg),Cryptoxanthins,CRYPT,µg,
+Lutein (µg),Lutein,LUT,µg,
+Lycopene (µg),Lycopene,LYCO,µg,
+25-hydroxy vitamin D3 (µg),25-hydroxy vitamin D3,25OHD3,µg,
+Cholecalciferol (µg),Cholecalciferol,VITD3,µg,
+5-mehtyl folate (µg),5-methyl folate,5METHF,µg,
+Alpha-tocopherol (mg),Alpha-tocopherol,ATOPH,mg,
+Beta-tocopherol (mg),Beta-tocopherol,BTOPH,mg,
+Delta-tocopherol (mg),Delta-tocopherol,DTOPH,mg,
+Gamma-tocopherol (mg),Gamma-tocopherol,GTOPH,mg,
+Alpha-tocotrienol (mg),Alpha-tocotrienol,ATOTR,mg,
+Gamma-tocotrienol (mg),Gamma-tocotrienol,GTOTR,mg,
+C4:0 /100g FA (g),Butanoic acid per 100g fatty acids,FAC4_0Per100gFA,g,
+C6:0 /100g FA (g),Hexanoic acid per 100g fatty acids,FAC6_0Per100gFA,g,
+C8:0 /100g FA (g),Octanoic acid per 100g fatty acids,FAC8_0Per100gFA,g,
+C10:0 /100g FA (g),Decanoic acid per 100g fatty acids,FAC10_0Per100gFA,g,
+C11:0 ex Br /100g FA (g),ex Br Undecanoic acid per 100g fatty acids,FAC11_0xbPer100gFA,g,
+C12:0 /100g FA (g),Dodecanoic acid per 100g fatty acids,FAC12_0Per100gFA,g,
+C12:0 ex Br /100g FA (g),ex Br Dodecanoic acid per 100g fatty acids,FAC12_0xbPer100gFA,g,
+C13:0 /100g FA (g),Tridecanoic acid per 100g fatty acids,FAC13_0Per100gFA,g,
+C13:0 ex Br /100g FA (g),ex Br Tridecanoic acid per 100g fatty acids,FAC13_0xbPer100gFA,g,
+C14:0 /100g FA (g),Tetradecanoic acid per 100g fatty acids,FAC14_0Per100gFA,g,
+C14:0 ex Br /100g FA (g),ex Br Tetradecanoic acid per 100g fatty acids,FAC14_0xbPer100gFA,g,
+C15:0 /100g FA (g),Pentadecanoic acid per 100g fatty acids,FAC15_0Per100gFA,g,
+C15:0 ex Br /100g FA (g),ex Br Pentadecanoic acid per 100g fatty acids,FAC15_0xbPer100gFA,g,
+C16:0 /100g FA (g),Hexadecanoic acid per 100g fatty acids,FAC16_0Per100gFA,g,
+C16:0 ex Br /100g FA (g),ex Br Hexadecanoic acid per 100g fatty acids,FAC16_0xbPer100gFA,g,
+C17:0 /100g FA (g),Heptadecanoic acid per 100g fatty acids,FAC17_0Per100gFA,g,
+C17:0 ex Br /100g FA (g),ex Br Heptadecanoic acid per 100g fatty acids,FAC17_0xbPer100gFA,g,
+C18:0 /100g FA (g),Octadecanoic acid per 100g fatty acids,FAC18_0Per100gFA,g,
+C18:0 ex Br /100g FA (g),ex Br Octadecanoic acid per 100g fatty acids,FAC18_0xbPer100gFA,g,
+C19:0 /100g FA (g),Nonadecanoic acid per 100g fatty acids,FAC19_0Per100gFA,g,
+C20:0 /100g FA (g),Eicosanoic acid per 100g fatty acids,FAC20_0Per100gFA,g,
+C20:0 ex Br /100g FA (g),ex Br Eicosanoic acid per 100g fatty acids,FAC20_0xbPer100gFA,g,
+C22:0 /100g FA (g),Docosanoic acid per 100g fatty acids,FAC22_0Per100gFA,g,
+C22:0 ex Br /100g FA (g),ex Br Docosanoic acid per 100g fatty acids,FAC22_0xbPer100gFA,g,
+C24:0 /100g FA (g),Tetracosanoic acid per 100g fatty acids,FAC24_0Per100gFA,g,
+C24:0 ex Br /100g FA (g),ex Br Tetracosanoic acid per 100g fatty acids,FAC24_0xbPer100gFA,g,
+C25:0 ex Br /100g FA (g),ex Br Pentacosanoic acid per 100g fatty acids,FAC25_0xbPer100gFA,g,
+C4:0 /100g food (g),Butanoic acid per 100g food,FOD4_0,g,
+C6:0 /100g food (g),Hexanoic acid per 100g food,FOD6_0,g,
+C8:0 /100g food (g),Octanoic acid per 100g food,FOD8_0,g,
+C10:0 /100g food (g),Decanoic acid per 100g food,FOD10_0,g,
+C11:0 ex Br /100g food (g),Undecanoic acid per 100g food,FOD11_0xb,g,
+C12:0 /100g food (g),Dodecanoic acid per 100g food,FOD12_0,g,
+C12:0 ex Br /100g food (g),ex Br Dodecanoic acid per 100g food,FOD12_0xb,g,
+C13:0 /100g food (g),Tridecanoic acid per 100g food,FOD13_0,g,
+C13:0 ex Br /100g food (g),ex Br Tridecanoic acid per 100g food,FOD13_0xb,g,
+C14:0 /100g food (g),Tetradecanoic acid per 100g food,FOD14_0,g,
+C14:0 ex Br /100g food (g),ex Br Tetradecanoic acid per 100g food,FOD14_0xb,g,
+C15:0 /100g food (g),Pentadecanoic acid per 100g food,FOD15_0,g,
+C15:0 ex Br /100g food (g),ex Br Pentadecanoic acid per 100g food,FOD15_0xb,g,
+C16:0 /100g food (g),Hexadecanoic acid per 100g food,FOD16_0,g,
+C16:0 ex Br /100g food (g),ex Br Hexadecanoic acid per 100g food,FOD16_0xb,g,
+C17:0 /100g food (g),Heptadecanoic acid per 100g food,FOD17_0,g,
+C17:0 ex Br /100g food (g),ex Br Heptadecanoic acid per 100g food,FOD17_0xb,g,
+C18:0 /100g food (g),Octadecanoic acid per 100g food,FOD18_0,g,
+C18:0 ex Br /100g food (g),ex Br Octadecanoic acid per 100g food,FOD18_0xb,g,
+C19:0 /100g food (g),Nonadecanoic acid per 100g food,FOD19_0,g,
+C20:0 /100g food (g),Eicosanoic acid per 100g food,FOD20_0,g,
+C20:0 ex Br /100g food (g),ex Br Eicosanoic acid per 100g food,FOD20_0xb,g,
+C22:0 /100g food (g),Docosanoic acid per 100g food,FOD22_0,g,
+C22:0 ex Br /100g food (g),ex Br Docosanoic acid per 100g food,FOD22_0xb,g,
+C24:0 /100g food (g),Tetracosanoic acid per 100g food,FOD24_0,g,
+C24:0 ex Br /100g food (g),ex Br Tetracosanoic acid per 100g food,FOD24_0xb,g,
+C25:0 ex Br /100g food (g),ex Br Pentacosanoic acid per 100g food,FOD25_0xb,g,
+C10:1 /100g FA (g),Decenoic acid per 100g fatty acids,FAC10_1,g,
+cis C10:1 /100g FA (g),cisDecenoic acid per 100g fatty acids,FAC10_1c,g,
+C12:1 /100g FA (g),Dodecenoic acid per 100g fatty acids,FAC12_1,g,
+cis C12:1 /100g FA (g),cisDodecenoic acid per 100g fatty acids,FAC12_1c,g,
+C14:1 /100g FA (g),Tetradecenoic acid per 100g fatty acids,FAC14_1,g,
+cis C14:1 /100g FA (g),cisTetradecenoic acid per 100g fatty acids,FAC14_1c,g,
+C15:1 /100g FA (g),Pentadecenoic acid per 100g fatty acids,FAC15_1,g,
+cis C15:1 /100g FA (g),cisPentadecenoic acid per 100g fatty acids,FAC15_1c,g,
+C16:1 /100g FA (g),Hexadecenoic acid per 100g fatty acids,FAC16_1,g,
+cis C16:1 /100g FA (g),cisHexadecenoic acid per 100g fatty acids,FAC16_1c,g,
+C17:1 /100g FA (g),Heptadecenoic acid per 100g fatty acids,FAC17_1,g,
+cis C17:1 /100g FA (g),cisHeptadecenoic acid per 100g fatty acids,FAC17_1c,g,
+C18:1 /100g FA (g),Octadecenoic acid per 100g fatty acids,FAC18_1,g,
+cis C18:1 /100g FA (g),cisOctadecenoic acid per 100g fatty acids,FAC18_1c,g,
+cis/trans C18:1n-9 /100g FA (g),n-9 Octadecenoic acid per 100g fatty acids,FAC18_1n9,g,
+cis/trans C18:1n-7 /100g FA (g),n-7 Octadecenoic acid per 100g fatty acids,FAC18_1n7,g,
+C20:1 /100g FA (g),Eicosenoic acid per 100g fatty acids,FAC20_1,g,
+cis C20:1 /100g FA (g),cisEicosenoic acid per 100g fatty acids,FAC20_1c,g,
+C22:1 /100g FA (g),Docosenoic acid per 100g fatty acids,FAC22_1,g,
+cis C22:1 /100g FA (g),cisDocosenoic acid per 100g fatty acids,FAC22_1c,g,
+cis/trans C22:1n-11 /100g FA (g),n-11 Docosenoic acid per 100g fatty acids,FAC22_1n11,g,
+cis/trans C22:1n-9 /100g FA (g),n-9 Docosenoic acid per 100g fatty acids,FAC22_1n9,g,
+C24:1 /100g FA (g),Tetracosenoic acid per 100g fatty acids,FAC24_1,g,
+cis C24:1 /100g FA (g),cisTetracosenoic acid per 100g fatty acids,FAC24_1c,g,
+trans monounsaturated /100g FA (g),trans monounsaturated fatty acids per 100 FA,MONOFACtr,g,
+C10:1 /100g food (g),Decenoic acid per 100g food,FOD10_1,g,
+cis C10:1 /100g food (g),cis Decenoic acid per 100g food,FOD10_1c,g,
+C12:1 /100g food (g),Dodecenoic acid per 100g food,FOD12_1,g,
+cis C12:1 /100g food (g),cis Dodecenoic acid per 100g food,FOD12_1c,g,
+C14:1 /100g food (g),Tetradecenoic acid per 100g food,FOD14_1,g,
+cis C14:1 /100g food (g),cis Tetradecenoic acid per 100g food,FOD14_1c,g,
+C15:1 /100g food (g),Pentadecenoic acid per 100g food,FOD15_1,g,
+cis C15:1 /100g food (g),cis Pentadecenoic acid per 100g food,FOD15_1c,g,
+C16:1 /100g food (g),Hexadecenoic acid per 100g food,FOD16_1,g,
+cis C16:1 /100g food (g),cis Hexadecenoic acid per 100g food,FOD16_1c,g,
+C17:1 /100g food (g),Heptadecenoic acid per 100g food,FOD17_1,g,
+cis C17:1 /100g food (g),cis Heptadecenoic acid per 100g food,FOD17_1c,g,
+C18:1 /100g food (g),Octadecenoic acid per 100g food,FOD18_1,g,
+cis C18:1 /100g food (g),cis Octadecenoic acid per 100g food,FOD18_1c,g,
+cis/trans C18:1n-9 /100g food (g),n-9 Octadecenoic acid per 100g food,FOD18_1n9,g,
+cis/trans C18:1n-7 /100g food (g),n-7 Octadecenoic acid per 100g food,FOD18_1n7,g,
+C20:1 /100g food (g),Eicosenoic acid per 100g food,FOD20_1,g,
+cis C20:1 /100g food (g),cis Eicosenoic acid per 100g food,FOD20_1c,g,
+C22:1 /100g food (g),Docosenoic acid per 100g food,FOD22_1,g,
+cis C22:1 /100g food (g),cis Docosenoic acid per 100g food,FOD22_1c,g,
+cis/trans C22:1n-11 /100g food (g),n-11 Docosenoic acid per 100g food,FOD22_1n11,g,
+cis/trans C22:1n-9 /100g food (g),n-9 Docosenoic acid per 100g food,FOD22_1n9,g,
+C24:1 /100g food (g),Tetracosenoic acid per 100g food,FOD24_1,g,
+cis C24:1 /100g food (g),cis Tetracosenoic acid per 100g food,FOD24_1c,g,
+trans monounsaturated /100g food (g),trans monounsaturated fatty acids per 100g food,MONOFODtr,g,
+C16:2 /100g FA (g),Hexadecadienoic acid per 100g fatty acids,FAC16_2,g,
+cis C16:2 /100g FA (g),cis Hexadecadienoic acid per 100g fatty acids,FAC16_2c,g,
+cis C16:3 /100g FA (g),cis Hexadecatrienoic acid per 100g fatty acids,FAC16_3c,g,
+C16:4 /100g FA (g),Hexadecatetraenoic acid per 100g fatty acids,FAC16_4,g,
+cis C16:4 /100g FA (g),cis Hexadecatetraenoic acid per 100g fatty acids,FAC16_4c,g,
+unknown C16 poly /100g FA (g),C16 polyunsaturated fatty acids per 100g fatty acids,FAC16_poly,g,
+C18:2 /100g FA (g),Octadecadienoic acid per 100g fatty acids,FAC18_2,g,
+cis n-6 C18:2 /100g FA (g),cis n-6 Octadecadienoic acid per 100g fatty acids,FAC18_2cn6,g,
+C18:3 /100g FA (g),Octadecatrienoic acid per 100g fatty acids,FAC18_3,g,
+cis n-3 C18:3 /100g FA (g),cis n-3 Octadecatrienoic acid per 100g fatty acids,FAC18_3cn3,g,
+cis n-6 C18:3 /100g FA (g),cis n-6 Octadecatrienoic acid per 100g fatty acids,FAC18_3cn6,g,
+C18:4 /100g FA (g),Octadecatetraenoic acid per 100g fatty acids,FAC18_4,g,
+cis n-3 C18:4 /100g FA (g),cis n-3 Octadecatetraenoic acid per 100g fatty acids,FAC18_4cn3,g,
+unknown C18 poly /100g FA (g),C18 polyunsaturated fatty acids per 100 fatty acid,FAC18_poly,g,
+C20:2 /100g FA (g),Eicosadienoic acid per 100g fatty acids,FAC20_2,g,
+cis n-6 C20:2 /100g FA (g),cis n-6 Eicosadienoic acid per 100g fatty acids,FAC20_2cn6,g,
+C20:3 /100g FA (g),Eicosatrienoic acid per 100g fatty acids,FAC20_3,g,
+cis n-6 C20:3 /100g FA (g),cis n-6 Eicosatrienoic acid per 100g fatty acids,FAC20_3cn6,g,
+C20:4 /100g FA (g),Eicosatetraenoic acid per 100g fatty acids,FAC20_4,g,
+cis n-6 C20:4 /100g FA (g),cis n-6 Eicosatetraenoic acid per 100g fatty acids,FAC20_4cn6,g,
+C20:5 /100g FA (g),Eicosapentaenoic acid per 100g fatty acids,FAC20_5,g,
+cis n-3 C20:5 /100g FA (g),cis n-3 Eicosapentaenoic acid per 100g fatty acids,FAC20_5cn3,g,
+unknown C20 poly /100 FA (g),C20 polyunsaturated fatty acid per 100 fatty acid,FAC20_poly,g,
+C21:5 /100g FA (g),Heneicosapentaenoic acid per 100g fatty acids,FAC21_5,g,
+cis n-3 C21:5 /100g FA (g),cis n-3 Heneicosapentaenoic acid per 100g fatty acids,FAC21_5cn3,g,
+C22:2 /100g FA (g),Docosadienoic acid per 100g fatty acids,FAC22_2,g,
+cis n-6 C22:2 /100g FA (g),cis n-6 Docosadienoic acid per 100g fatty acids,FAC22_2cn6,g,
+cis n-6 C22:3 /100g FA (g),cis n-6,FAC22_3cn6,g,
+C22:4 /100g FA (g),Docosatetraenoic acid per 100g fatty acids,FAC22_4,g,
+cis n-6 C22:4 /100g FA (g),cis n-6 Docosatetraenoic acid per 100g fatty acids,FAC22_4cn6,g,
+C22:5 /100g FA (g),Docosapentaenoic acid per 100g fatty acids,FAC22_5,g,
+cis n-3 C22:5 /100g FA (g),cis n-3 Docosapentaenoic acid per 100g fatty acids,FAC22_5cn3,g,
+C22:6 /100g FA (g),Docosahexaenoic acid (DHA) per 100g fatty acids,FAC22_6,g,
+cis n-3 C22:6 /100g FA (g),cis n-3 Docosahexaenoic acid (DHA) per 100g FA,FAC22_6cn3,g,
+unknown C22 poly /100g FA (g),C22 polyunsaturated fatty acid per 100g fatty acid,FAC22_poly,g,
+trans poly /100g FA (g),trans polyunsatsaturated fatty acid per 100g fatty acid,POLYFACtr,g,
+C16:2 /100g food (g),Hexadecadienoic acid per 100g food,FOD16_2,g,
+cis C16:2 /100g food (g),cis Hexadecadienoic acid per 100g food,FOD16_2c,g,
+C16:3 /100g food (g),Hexadecatrienoic acid per 100g food,FOD16_3,g,
+C16:4 /100g food (g),Hexadecatetraenoic acid per 100g food,FOD16_4,g,
+cis C16:4 /100g food (g),cis Hexadecatetraenoic acid per 100g food,FOD16_4c,g,
+unknown C16 poly /100g food (g),C16 polyunsaturated fatty acids per 100g food,FOD16_poly,g,
+C18:2 /100g food (g),Octadecadienoic acid per 100g food,FOD18_2,g,
+cis n-6 C18:2 /100g food (g),cis n-6 Octadecadienoic acid per 100g food,FOD18_2cn6,g,
+C18:3 /100g food (g),Octadecatrienoic acid per 100g food,FOD18_3,g,
+cis n-3 C18:3 /100g food (g),cis n-3 Octadecatrienoic acid per 100g food,FOD18_3cn3,g,
+cis n-6 C18:3 /100g food (g),cis n-6 Octadecatrienoic acid per 100g food,FOD18_3cn6,g,
+C18:4 /100g food (g),Octadecatetraenoic acid per 100g food,FOD18_4,g,
+cis n-3 C18:4 /100g food (g),cis n-3 Octadecatetraenoic acid per 100g food,FOD18_4cn3,g,
+unknown C18 poly /100g food (g),C18 polyunsaturated fatty acid per 100g food,FOD18_poly,g,
+C20:2 /100g food (g),Eicosadienoic acid per 100g food,FOD20_2,g,
+cis n-6 C20:2 /100g food (g),cis n-6 Eicosadienoic acid per 100g food,FOD20_2cn6,g,
+C20:3 /100g food (g),Eicosatrienoic acid per 100g food,FOD20_3,g,
+cis n-6 C20:3 /100g food (g),cis n-6 Eicosatrienoic acid per 100g food,FOD20_3cn6,g,
+C20:4 /100g food (g),Eicosatetraenoic acid per 100g food,FOD20_4,g,
+cis n-6 C20:4 /100g food (g),cis n-6 Eicosatetraenoic acid per 100g food,FOD20_4cn6,g,
+C20:5 /100g food (g),Eicosapentaenoic acid per 100g food,FOD20_5,g,
+cis n-3 C20:5 /100g food (g),cis n-3 Eicosapentaenoic acid per 100g food,FOD20_5cn3,g,
+unknown C20 poly /100g food (g),C20 polyunsaturated fatty acid per 100g food,FOD20_poly,g,
+C21:5 /100g food (g),Heneicosapentaenoic acid per 100g food,FOD21_5,g,
+cis n-3 C21:5 /100g food (g),cis n-3 Heneicosapentaenoic acid per 100g food,FOD21_5cn3,g,
+C22:2 /100g food (g),Docosadienoic acid per 100g food,FOD22_2,g,
+cis n-6 C22:2 /100g food (g),cis n-6 Docosadienoic acid per 100g food,FOD22_2cn6,g,
+cis n-6 C22:3 /100g food (g),cis n-6,FOD22_3cn6,g,
+C22:4 /100g food (g),Docosatetraenoic acid per 100g food,FOD22_4,g,
+cis n-6 C22:4 /100g food (g),cis n-6 Docosatetraenoic acid per 100g food,FOD22_4cn6,g,
+C22:5 /100g food (g),Docosapentaenoic acid per 100g food,FOD22_5,g,
+cis n-3 C22:5 /100g food (g),cis n-3 Docosapentaenoic acid per 100g food,FOD22_5cn3,g,
+C22:6 /100g food (g),Docosahexaenoic acid (DHA) per 100g food,FOD22_6,g,
+cis n-3 C22:6 /100g food (g),cis n-3 Docosahexaenoic acid (DHA) per 100g food,FOD22_6cn3,g,
+unknown C22 poly /100g food (g),polyunsaturated fatty acid per 100g food,FOD22_poly,g,
+trans poly /100g food (g),trans polyunsaturated fatty acid per 100g food,POLYFODtr,g,
+Total Phytosterols (mg),Total Phytosterols,Total_PHYTO,mg,
+Other Cholesterol and Phytosterols (mg),Other Cholesterol and Phytosterols,Other_CHOL_and_PHYTO,mg,
+Phytosterol (mg),Phytosterol,PHYTO,mg,
+Beta-sitosterol (mg),Beta-sitosterol,BSITPHYTO,mg,
+Brassicasterol (mg),Brassicasterol,BRASPHYTO,mg,
+Campesterol (mg),Campesterol,CAMPHYTO,mg,
+Delta-5-avenasterol (mg),Delta-5-avenasterol,D5AVEN,mg,
+Delta-7-avenasterol (mg),Delta-7-avenasterol,D7AVEN,mg,
+Delta-7-stigmastenol (mg),Delta-7-stigmastenol,D7STIG,mg,
+Stigmasterol (mg),Stigmasterol,STIGPHYTO,mg,
+Citric acid (g),Citric acid,CITA,g,
+Malic acid (g),Malic acid,MALA,g,
